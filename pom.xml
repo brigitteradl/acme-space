@@ -51,11 +51,8 @@
     <artifactId>acmespace</artifactId>
     <name>ACME SPACE Demo 6.6</name>
     <packaging>pom</packaging>
-
     <build>
         <plugins>
-
-
             <plugin>
                 <artifactId>maven-assembly-plugin</artifactId>
 
@@ -110,8 +107,6 @@
                     </execution>
                 </executions>
             </plugin>
-
-
         </plugins>
     </build>
 </project>
