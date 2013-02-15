@@ -51,6 +51,11 @@
     <artifactId>acmespace</artifactId>
     <name>ACME SPACE Demo 6.6</name>
     <packaging>pom</packaging>
+    <scm>
+        <connection>scm:git:git@github.com:Jahia/acme-space.git</connection>
+        <url>scm:git:git@github.com:Jahia/acme-space.git</url>
+        <developerConnection>scm:git:git@github.com:Jahia/acme-space.git</developerConnection>
+    </scm>
     <repositories>
         <repository>
             <id>jahia-public</id>
