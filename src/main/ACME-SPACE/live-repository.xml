@@ -107,11 +107,6 @@
         </projects-news>
       </contents>
       <files j:lastPublished="2013-06-14T17:20:30.834+02:00" j:lastPublishedBy="root" j:originWS="default" j:published="true" jcr:created="2013-06-14T17:19:39.432+02:00" jcr:createdBy="system" jcr:lastModified="2012-01-26T13:53:09.200+01:00" jcr:lastModifiedBy="bill" jcr:primaryType="jnt:folder" jcr:uuid="af3c9176-1276-4e90-90ec-23d5f6d72f9c">
-        <contributed j:lastPublished="2013-06-14T17:20:30.834+02:00" j:lastPublishedBy="root" j:originWS="default" j:published="true" jcr:created="2013-06-14T17:19:39.432+02:00" jcr:createdBy="system" jcr:lastModified="2011-09-23T11:02:53.834+02:00" jcr:lastModifiedBy="" jcr:mixinTypes="jmix:accessControlled" jcr:primaryType="jnt:folder" jcr:uuid="7efd64e1-9de4-4f0c-be30-93e20eb6c411">
-          <j:acl jcr:primaryType="jnt:acl" jcr:uuid="eacdf1d1-ff39-49d0-ac89-a3ee19fd0983">
-            <GRANT_g_site-privileged j:aceType="GRANT" j:principal="g:privileged" j:protected="false" j:roles="contributor" jcr:primaryType="jnt:ace" jcr:uuid="35f844f5-2120-44c3-85de-49b942ec1218" />
-          </j:acl>
-        </contributed>
         <PDF j:lastPublished="2013-06-14T17:20:30.834+02:00" j:lastPublishedBy="root" j:originWS="default" j:published="true" jcr:created="2011-02-01T16:40:07.820+01:00" jcr:createdBy="root" jcr:lastModified="2011-02-01T16:40:14.671+01:00" jcr:lastModifiedBy="root" jcr:primaryType="jnt:folder" jcr:uuid="36fded7b-8deb-4b2e-8674-ff848e993e62">
           <Publications j:lastPublished="2013-06-14T17:20:30.834+02:00" j:lastPublishedBy="root" j:originWS="default" j:published="true" jcr:created="2011-02-01T16:40:07.821+01:00" jcr:createdBy="root" jcr:lastModified="2011-02-01T16:40:14.671+01:00" jcr:lastModifiedBy="root" jcr:primaryType="jnt:folder" jcr:uuid="4181e0b6-d45f-42e2-93f1-ac9e88fcae6f">
             <ACME_WP.pdf j:appName="Mac OS X 10.7.2 Quartz PDFContext" j:keywords="" j:lastPublished="2013-06-14T17:20:30.834+02:00" j:lastPublishedBy="root" j:originWS="default" j:published="true" j:subject="" jcr:created="2012-01-26T13:23:45.290+01:00" jcr:createdBy="bill" jcr:lastModified="2013-06-14T17:20:24.854+02:00" jcr:lastModifiedBy="" jcr:mixinTypes="jmix:document jmix:keywords" jcr:primaryType="jnt:file" jcr:title="ACME_WP" jcr:uuid="ebd0ecd4-a5f3-487a-b5ec-338e14eba47d">
